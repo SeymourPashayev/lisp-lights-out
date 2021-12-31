@@ -21,4 +21,3 @@ The AI is very randomized and exhibits no special goals.
     
 ##Contacts: 
 - @Author: Seymour Pashayev 
-- @Supervisor: Erik Steinmetz
